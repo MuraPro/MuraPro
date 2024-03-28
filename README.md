@@ -28,6 +28,18 @@
 
 ---
 <div>
+  <h2>Интерактивная игра на Vanilla JS:</h2>
+
+
+<span> Возможность задать время игры и получить колличество очков. </span>
+
+  
+ДЕМО: https://dainty-dusk-62c7be.netlify.app
+
+
+ИСХОДНЫЙ КОД: https://github.com/MuraPro/Js-Game
+
+
 <h2>Тестовый плагин Todo App:</h2>
 
 
