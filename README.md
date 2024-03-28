@@ -22,7 +22,7 @@
 
 ---
 <div>
-  Плагины и приложения:
-  <a href="https://snazzy-capybara-024fb8.netlify.app"><span>Todo App</span></a>
+  # ПРИМЕРЫ КОДА (Информация для технических специалистов):
+  https://github.com/MuraPro?tab=repositories
 </div>
 
