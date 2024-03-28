@@ -28,12 +28,19 @@
 
 ---
 <div>
-<span>Пример тестового задания Todo App.</span>  
+<h2>Пример тестового задания Todo App.</h2>  
 
   
 ДЕМО: https://snazzy-capybara-024fb8.netlify.app  
 
 
 ИСХОДНЫЙ КОД: https://github.com/MuraPro/TODO-App
+
+<h2>Тестовый плагин фильтрации авиабилетов с градацией запросов на подгрузку билетов по интервалам для того чтоб пользователь имел возможность начать фильтрацию до подгрузки всего колличества билетов.</h2>
+
+ДЕМО: https://aviasels-plugin.vercel.app
+
+
+ИСХОДНЫЙ КОД: https://github.com/MuraPro/Aviasales-plugin
 </div>
 
