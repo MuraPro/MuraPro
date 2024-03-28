@@ -28,12 +28,8 @@
 
 ---
 <div>
-<span>Пример тестового задания Todo App с использованием хуков и на классовых компонентах.</span>  
-
-  
+<span>Пример тестового задания Todo App.</span>  
+ДЕМО: https://snazzy-capybara-024fb8.netlify.app  
 ИСХОДНЫЙ КОД: https://github.com/MuraPro/TODO-App
-
-
-ДЕМО: https://snazzy-capybara-024fb8.netlify.app
 </div>
 
