@@ -40,6 +40,18 @@
 ИСХОДНЫЙ КОД: https://github.com/MuraPro/Js-Game
 
 
+<h2>Тестовый плагин Movies-App:</h2>
+
+
+<span> Плагин с постраничной загрузкой данных о фильме, трансформация данных для отображения визуала возможность оценки рейтинга с отправкой данных на сервер. React, Hooks</span>
+
+  
+ДЕМО: https://movies-app-cra.vercel.app/ 
+
+
+ИСХОДНЫЙ КОД: https://github.com/MuraPro/Movies-App
+
+
 <h2>Тестовый плагин Todo App:</h2>
 
 
